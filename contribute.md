@@ -12,7 +12,7 @@ To do so, their's only some guidelines to follow in order to keep nice and clean
 Not so much guidelines here. At least, if you want to share some thoughts about our work, positive or negative, try to stay constructive... Keep in mind that we provide these tools for free. We see too much negative comments around some open source projects on the social networks these days by haters... Keep in mind that the open source community prefer guys that **do** something bad over guys that only **say** bad things....
 
 <a id="contribute-declare-issues"></a>
-## Declare issues
+## Declare issues
 
 This is the most basic contribution you can make to a project. Here's just some small guidelines to create issues the proper way:
 
